@@ -1,0 +1,6 @@
+{
+"name":"Don't replace my history",
+ "description":"Disable history.replaceState and history.pushState",
+  "version":"0.1",
+  "manifest_version":2
+}
